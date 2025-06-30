@@ -6,8 +6,8 @@ Termux Voice Welcome
 - pkg upgrade -y
 - pkg install mpv -y
 - pkg install git -y
-- git clone https://github.com/majidtdeni666/Welcome-Voice.git
-- cd Welcome-Voice
+- git clone https://github.com/mooa322/Termux.git
+- cd Termux
 - chmod +x *
 - sh install.sh
 
