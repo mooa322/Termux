@@ -5,7 +5,7 @@ PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────[\e[1;93m🇾🇪 �
 echo -e '\e[4 q'
 echo -ne "\033]12;#7CFC00\007"
 clear
-mpv /$HOME/termux/termux.mp3
+mpv /$HOME/Termux/termux.mp3
 clear
 echo -e "Created By \e[1;91m🇾🇪 𓆩𝓓𝓐𝓗𝓞𝓞𝓜𓆪 🇵🇸"
 echo "----------------------------" | lolcat
