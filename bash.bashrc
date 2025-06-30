@@ -35,8 +35,8 @@ echo "                                       MAJIDT_DENI" | lolcat
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□□■□■□□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mYouTube   \e[1;91m =  \e[1;97mMajidt Deni"
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97m@majidtdeni666"
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97m@majidtdeni"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mYouTube   \e[1;91m =  \e[1;97mDAHOOM"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97mDAHOOM"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mTelegram  \e[1;91m =  \e[1;97mDAHOOM"
 echo ""
 date | lolcat
